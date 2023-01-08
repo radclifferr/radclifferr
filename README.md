@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **radcliffer94@gmail.com**
 
-- 📄 Know about my experiences [http://www.richardradcliffe.com/resume](http://www.richardradcliffe.com/resume)
+- 📄 Know about my experiences [Resume](http://docs.google.com/gview?url=https://docs.google.com/document/d/1WN9Uo9lYe9EH0aWyIinuOF_ewA3aTrrtwsludaG3Sok/export?format=pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
