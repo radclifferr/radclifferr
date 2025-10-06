@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A full stack developer</h3>
 
-- 🔭 I’m currently working on [Gather For Cheese](https://github.com/radclifferr/gather-for-cheese)
-
-- 🌱 I’m currently learning **MySQL**
-
-- 👨‍💻 All of my projects are available at [http://www.richardradcliffe.com/](http://www.richardradcliffe.com/)
-
-- 💬 Ask me about **React, React Native**
-
-- 📫 How to reach me **radcliffer94@gmail.com**
-
-- 📄 Know about my experiences [Resume](http://docs.google.com/gview?url=https://docs.google.com/document/d/1WN9Uo9lYe9EH0aWyIinuOF_ewA3aTrrtwsludaG3Sok/export?format=pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/radcliffer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radcliffer" height="30" width="40" /></a>
